@@ -1,163 +1,165 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Jaydev Thomke",
+    "occupation":"Software Engineer",
+    "description":"Self driven Full Stack Developer who always wants to explore new technologies. Programming Language/Framework is no bar. Problem solver and also a fast learner. R&D is something that I have always craved for.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I am a self driven full stack developer. If you as me Angular or React? I'll say both. Every framework is perfect in its own way. If you ask me Frontend or Backend? I'll say Backend. Nodejs/Express is something I am very good at. Java(Spring, Hibernate) is somrthing I would love to work on.",
+    "contactmessage":"Feel free to contact me if you find my profile relevent. Thanks for that opportunity in advance!!",
+    "email": "jaydevthomke.in@gmail.com",
+    "phone": "7020808023",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Dhole Patil Road",
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411001"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://jaydevthomke.herokuapp.com",
+    "resumedownload":"https://jaydevthomke.herokuapp.com/resume.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/jaydev.thomke",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jaydev-thomke-730924136/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/jaydevthomke.js/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/jaydev25",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"https://join.skype.com/invite/YRWkWTRave1P",
         "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below mentioned are some of my technical skills but are not limited to",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"ATS SBGI Miraj (Shivaji University)",
+        "degree":"Bachelor Of Engineering in Computer Science",
+        "graduated":"April 2017",
+        "description":"You can find me on collage brochure as notable allumini. Guided juniors in different projects, Counducted class room training sessions on Web Development using advanced frameworkes like Angular/Ionic/Nodejs(Express)"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Dr. J.J. Magdum Polytechnic (MSBTE)",
+        "degree":"Diploma in Computer Engineering",
+        "graduated":"April 2014",
+        "description":"Developer a stock managenet software for a firm in MIDC as a final year project. (Java, Swing)"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Firstcry.com",
+        "title":"Software Engineer",
+        "years":"November 2017 - Present",
+        "description":"Full Stack developer, (MEAN/MERN Stack) Built some major revenue generating projects, Expertise in generating reports with lacks of records. Designed software architecture."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Allure INC",
+        "title":"Junior Software Engineer",
+        "years":"July 2017 - October 2017",
+        "description":"Magento Developer"
+      },
+      {
+        "company":"Belgave Group Of Companies",
+        "title":"MEAN Stack Developer",
+        "years":"January 2017 - June 2017",
+        "description":"It was an inner IT company. Worked Part-time while pursuing my bachelors. Built Hybrid Application uisng Ionic/Angular, Noejs/Express, MongoDB for this organization."
       }
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"CSS",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs/Express",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"70%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"PostgreSQL",
         "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"50%"
+      },
+      {
+        "name":"AWS",
+        "level":"50%"
+      },
+      {
+        "name":"Elasticsearch",
+        "level":"70%"
+      },
+      {
+        "name":"RabbitMQ",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"PUBG Tournaments (Side Project)",
+        "category":"Platform for hosting PUBG Tournaments.",
+        "image":"pubg.png",
+        "url":"https://pubg-tournament-app.herokuapp.com"
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "category":"A React based resume website (template by timbakerdev, https://github.com/tbakerx)",
+        "image":"resume-website.png",
+        "url":"https://jaydevthomke.herokuapp.com"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Tu technically khup strong ahes. (You are technically very strong.)",
+        "user":"Prasad Bhosale"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"You can work independently!",
+        "user":"Viren Ajmera"
+      },
+      {
+        "text":"You are workaholic!",
+        "user":"Nikhil Pimpale"
+      },
+      {
+        "text":"You are a faadu coder!",
+        "user":"Riddhi Sakre"
       }
     ]
   }
